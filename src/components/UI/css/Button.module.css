@@ -1,0 +1,25 @@
+.Button {
+	padding: 10px 20px;
+	font-size: 1.2em;
+	font-weight: 700;
+	border: none;
+	border-radius: 10px;
+	margin-right: 15px;
+	margin-top: 15px;
+	width: 250px;
+	cursor: pointer;
+}
+
+.Btn {
+	background-color: #004eec;
+	color: white;
+}
+
+.Btn:hover {
+	background-color: #3a77f1;
+}
+
+.BtnOutline {
+	background-color: white;
+	border: solid #004eec 3px;
+}

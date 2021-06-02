@@ -1,0 +1,24 @@
+.productCard {
+	width: 18%;
+	margin-top: 20px;
+	color: black;
+	text-decoration: none;
+	box-shadow: 1px 2px 5px #33333352;
+	border-radius: 10px;
+	overflow: hidden;
+}
+
+.productCard img {
+	width: 100%;
+	height: 100%;
+}
+
+.productCard .productDetails {
+	padding: 10px;
+}
+
+@media (max-width: 768px) {
+	.productCard {
+		width: 100%;
+	}
+}
